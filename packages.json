@@ -1,6 +1,38 @@
 [
     {
+        "package": "gender",
+        "url": "https://github.com/lmullen/gender"
+    },
+    {
         "package": "genderdata",
         "url": "https://github.com/lmullen/genderdata"
+    },
+    {
+        "package": "textreuse",
+        "url": "https://github.com/ropensci/textreuse"
+    },
+    {
+        "package": "tokenizers",
+        "url": "https://github.com/ropensci/tokenizers"
+    },
+    {
+        "package": "historydata",
+        "url": "https://github.com/ropensci/historydata"
+    },
+    {
+        "package": "historydata",
+        "url": "https://github.com/ropensci/historydata"
+    },
+    {
+        "package": "USAboundaries",
+        "url": "https://github.com/ropensci/USAboundaries"
+    },
+    {
+        "package": "USAboundariesData",
+        "url": "https://github.com/ropensci/USAboundariesData"
+    },
+    {
+        "package": "internetarchive",
+        "url": "https://github.com/ropensci/internetarchive"
     }
 ]
