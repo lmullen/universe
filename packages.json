@@ -35,4 +35,16 @@
         "package": "internetarchive",
         "url": "https://github.com/ropensci/internetarchive"
     }
+    {
+        "package": "geochecker",
+        "url": "https://github.com/lmullen/geochecker"
+    }
+    {
+        "package": "WPAnarratives",
+        "url": "https://github.com/lmullen/WPAnarratives"
+    }
+    {
+        "package": "tractarian",
+        "url": "https://github.com/lmullen/tractarian"
+    }
 ]
